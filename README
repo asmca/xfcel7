@@ -1,0 +1,17 @@
+Please notice that this project is only for Desktop Usage.
+
+For EnterpriseLinux Server settings, you do not have to install 3-party repo/rpms. Those trusted packages should be installed only.
+
+This project is a cmdline script which, will finish the installations on XFCE desktop for EL7.
+
+By plan, it works on both CentOS7 and OracleLinux 7
+
+- CentOS Linux release 7.0.1406 (Core) 
+- OEL7 //ToDo
+
+
+It relies on EPEL repo and oracle public-yum, also CentOS base yum repo.
+
+Customized RPMs is located on my server.
+
+
