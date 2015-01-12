@@ -7,7 +7,8 @@ This project is a cmdline script which, will finish the installations on XFCE de
 By plan, it works on both CentOS7 and OracleLinux 7
 
 - CentOS Linux release 7.0.1406 (Core) 
-- OEL7 //ToDo
+- Oracle Linux Server release 7.0
+
 
 
 It relies on EPEL repo and oracle public-yum, also CentOS base yum repo.
